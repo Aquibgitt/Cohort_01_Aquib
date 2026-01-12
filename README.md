@@ -1,4 +1,4 @@
-# Cohort-01_Sayed
+# Cohort-01_Aquib
 # Applied AI Engineering — Student Repo
 
 This repo is used for weekly assignments and code reviews.
