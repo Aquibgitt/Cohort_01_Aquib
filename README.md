@@ -12,6 +12,6 @@ This repo is used for weekly assignments and code reviews.
 1) Sync main
 2) Create weekly branch
 3) Do work in `week-XX/` ex: `week1/Python basics/`
-4) Open PR to `main`
+4) Open PR to `main folder`
 
 
